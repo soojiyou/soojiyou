@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![soojiyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojiyou&count_private=true&theme=graywhite&show_icons=true&hide=contribs,prs)
+![soojiyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojiyou&count_private=true&theme=graywhite&show_icons=true&hide=contribs,prs&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojiyou&layout=compact&hide=HTML,CSS,SCSS,PUG)
 
