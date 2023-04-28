@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojiyou&count_bg=%237ACB3C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojiyou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
